@@ -3,6 +3,7 @@ body{
     text-align: center;
     margin:20px;
     background-color: #f9f7f1;
+    display:flex;
 }
 div{
     display:inline-blockl;
